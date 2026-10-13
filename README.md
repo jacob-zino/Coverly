@@ -6,13 +6,13 @@ A multi-page responsive website for a fictional insurance company, built with HT
 
 
 
-\## Pages
+## Pages
 
 Home, About Us, Services, Account, Buy Now
 
 
 
-\## Run it
+## Run it
 
 Open `index.html` in a browser – no build step needed.
 
