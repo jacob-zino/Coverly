@@ -1,4 +1,4 @@
-\# Coverly – Insurance Company Website
+# Coverly – Insurance Company Website
 
 
 
